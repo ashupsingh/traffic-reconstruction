@@ -1,0 +1,30 @@
+{
+  "id": "traffic",
+  "name": "Intelligent Traffic Management",
+  "category": "IoT · Computer vision",
+  "icon": "traffic",
+  "description": "Dynamic traffic signal control using computer vision, IoT sensors, and AI/ML models to address urban congestion.",
+  "detail": "Building at Vernovate with a target of reducing congestion by 30%. The reduction is a development target, not a measured deployment result. The ITMS project won the JEC Hackathon in February 2025.",
+  "stack": [
+    "Computer Vision",
+    "IoT Sensors",
+    "ESP",
+    "Raspberry Pi"
+  ],
+  "status": "In development",
+  "award": "JEC Hackathon winner",
+  "group": "Embedded & IoT",
+  "image": "/projects/traffic.webp",
+  "url": "",
+  "liveUrl": "",
+  "featured": true,
+  "evidence": [],
+  "caseStudy": {
+    "problem": "Urban congestion and fixed signal timing motivate adaptive traffic control.",
+    "contribution": "Developing the traffic management system at Vernovate. Individual subsystem ownership is not yet documented.",
+    "approach": "Computer vision and IoT sensor inputs support the proposed signal-control system.",
+    "outcome": "JEC Hackathon winner, February 2025. A 30% congestion reduction is a development target.",
+    "limitations": "No measured on-site congestion reduction is reported.",
+    "learning": "Evaluation should compare the same traffic conditions against a fixed-timing baseline."
+  }
+}

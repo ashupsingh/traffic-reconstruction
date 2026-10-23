@@ -1,0 +1,8 @@
+{
+  "synthetic_green_plan_seconds": [
+    20.0,
+    40.0
+  ],
+  "road_controller": false,
+  "measured_congestion_reduction": null
+}
